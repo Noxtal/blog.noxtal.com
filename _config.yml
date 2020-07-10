@@ -21,7 +21,7 @@ stackoverflow_link:
 
 # Footer
 footer_right: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://noxtal.com/\">Noxtal</a>" 
-footer_left: "Theme: <a href=\"https://github.com/jacobtomlinson/carte-noire\">carte-noire</a> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_left: "Based on <a href=\"https://github.com/jacobtomlinson/carte-noire\">carte-noire</a> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 # Build settings
 
 permalink: pretty
