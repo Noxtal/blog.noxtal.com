@@ -4,7 +4,7 @@ email: contact.noxtal@gmail.com
 description: "Hey, I'm Noxtal! I'm a young CTF player and pentester, come check out my blog. On it, I post about everything I like but mostly detailed writeups about cybersecurity challenges I liked for beginners to learn."
 baseurl: ""
 url: "http://noxtal.com/"
-title_description: "Welcome! I'm Noxtal and this is my \"Cyberworld\". In other words, it is a website on which I post writeups for cybersecurity challenges, tutorials and offer good ways to learn programming and hacking. My goal is to make people from the coding and hacking community learn and share the things I create. I am not in any way a certified hacker or pentester, but I do that as a passion because of my young age. Enjoy your stay!"
+title_description: 'Welcome! I''m Noxtal and this is my "Cyberworld". In other words, it is a website on which I post writeups for cybersecurity challenges, tutorials and offer good ways to learn programming and hacking. My goal is to make people from the coding and hacking community learn and share the things I create. I am not in any way a certified hacker or pentester, but I do that as a passion because of my young age. Enjoy your stay!'
 title_image: "https://avatars2.githubusercontent.com/u/44851191?s=500&d=mm"
 google_analytics: "UA-167321483-1"
 disqus_account: noxtal-com
@@ -14,15 +14,32 @@ post_limit: 10
 
 # Social usernames/URLs
 twitter_username: noxtal_
-github_username:  Noxtal
-instagram_username: 
-reddit_username: 
-stackoverflow_link: 
+github_username: noxtal
+instagram_username:
+reddit_username:
+stackoverflow_link:
 
 # Footer
-footer_right: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://noxtal.com/\">Noxtal</a>" 
-footer_left: "Based on <a href=\"https://github.com/jacobtomlinson/carte-noire\">carte-noire</a> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-# Build settings
+footer_right: 'Made with <i class="fa fa-heart"></i> by <a href="https://noxtal.com/">Noxtal</a>'
+footer_left: 'Based on <a href="https://github.com/jacobtomlinson/carte-noire">carte-noire</a> by <a href="https://twitter.com/_JacobTomlinson">Jacob Tomlinson</a>'
 
+# SEO Tags
+tagline: "Welcome to Noxtal's Cyberworld!"
+twitter:
+  username: noxtal_
+  card: summary
+social:
+  name: Noxtal
+  links:
+    - https://twitter.com/noxtal_
+    - https://noxtal.com/
+    - https://github.com/noxtal
+
+# Build settings
 permalink: pretty
 exclude: [vendor]
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
