@@ -7,7 +7,7 @@ url: "http://noxtal.com/"
 title_description: "Welcome! I'm Noxtal and this is my \"Cyberworld\". In other words, it is a website on which I post writeups for cybersecurity challenges, tutorials and offer good ways to learn programming and hacking. My goal is to make people from the coding and hacking community learn and share the things I create. I am not in any way a certified hacker or pentester, but I do that as a passion because of my young age. Enjoy your stay!"
 title_image: "https://avatars2.githubusercontent.com/u/44851191?s=500&d=mm"
 google_analytics: "UA-167321483-1"
-disqus_account: noxtal
+disqus_account: noxtal-com
 github_repository: https://github.com/Noxtal/noxtal.com
 addthis_id: ra-5f07cbdc7e5d39c3
 post_limit: 10
