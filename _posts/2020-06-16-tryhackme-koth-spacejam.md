@@ -164,4 +164,4 @@ app.listen(3000, () => console.log('App listening on port 3000'))
 
 Once you are done we need to update the server with the current version of the server. In order to do that, kill the previously found process id (using, for instance `kill -9 <PROCESS ID>`). Then, as soon as possible, put the server back up using the node command: `node server.js`. Your patching job is now done! 
 
-That's what I achieved to find on that box. If you have any questions, feedback or other information I have not listed, feel free to contact me via [Twitter](https://twitter.com/noxtal_) or using any of the methods listed [here](https://writeups.noxtal.com/#/pages/about).
+That's what I achieved to find on that box. If you have any questions, feedback or other information I have not listed, feel free to contact me via [Twitter](https://twitter.com/noxtal_) or by commenting below.
