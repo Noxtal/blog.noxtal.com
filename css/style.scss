@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
+@import "base16-monokai.css";
 
 /* Colours */
 $twitter:        #6dabda;
@@ -462,9 +463,9 @@ ul {
 	p {
 		margin-bottom: 10px;
 
-		@media (min-width: $screen-sm-min) {
-			margin-bottom: 40px;
-		}
+		// @media (min-width: $screen-sm-min) {
+		// 	margin-bottom: 40px;
+		// }
 	}
 
 	.menu {
@@ -621,7 +622,7 @@ ul {
 				:before {
     			font-family: "Times New Roman";
 					color: $light-medium;
-			    content: "“";
+			    content: '"';
 			    position: absolute;
 			    top: 15px;
 			    left: 15px;
