@@ -39,6 +39,11 @@ social:
 permalink: pretty
 exclude: [vendor]
 
+# Random Redirect
+random_redirect:
+  pages: false
+  documents: true
+
 # Plugins
 plugins:
   - jekyll-sitemap
