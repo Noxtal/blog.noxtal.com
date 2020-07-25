@@ -1,7 +1,7 @@
 ---
 layout: post
 title: THC Hydra Cheatsheet
-summary: A cheatsheet for the THC Hydra bruteforcing tool. THC Hydra is a tool developped by van Hauser / THC for bruteforcing credentials on multiple protocols.
+summary: A cheatsheet for the THC Hydra bruteforcing tool. THC Hydra is a tool developed by van Hauser / THC for bruteforcing credentials on multiple protocols.
 date: 2020-07-24
 author: Noxtal
 categories: cheatsheets
@@ -13,7 +13,7 @@ tags:
  - attack
 ---
 
-A cheatsheet for the THC Hydra bruteforcing tool. THC Hydra is a tool developped by van Hauser / THC for bruteforcing credentials on multiple protocols.
+A cheatsheet for the THC Hydra bruteforcing tool. THC Hydra is a tool developed by van Hauser / THC for bruteforcing credentials on multiple protocols.
 
 -----
 
