@@ -166,6 +166,25 @@ layout: default
       </div>
       {% endif %}
 
+      <div class="content-panel related">
+        {% for post in site.posts limit:1 %}
+          <div class="related-header">
+            <a href="{{ site.baseurl }}{{ post.url }}">Latest Article</a>
+          </div>
+          <div class="title">
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          </div>
+          <div class="excerpt">
+             {% if post.summary %}
+              {{ post.summary | strip_html | truncatewords:30 }}
+             {% else %}
+              {{ post.excerpt | strip_html | truncatewords:30 }}
+             {% endif %}
+            <a href="{{ site.baseurl }}{{ post.url }}">Continue Reading</a>
+          </div>
+        {% endfor %}
+      </div>
+
     </div>
 
   </div>
