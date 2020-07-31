@@ -151,9 +151,9 @@ sudo -l
 ```
 
 Enumerate interesting files, processes, and privescs using Linpeas:
-1. Install [linpeas] on your machine.
+1. Install [linpeas](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS) on your machine.
 2. Transfer it to the target machine. (see the [Transferring Files](#Transferring-files))
-3. Make it executable, run it, and `tee` the output into a log file for further analysis.
+3. Make it executable, run it, and `tee` the output to a log file for further analysis.
   
 ```bash 
 chmod +x linpeas.sh
