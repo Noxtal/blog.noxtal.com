@@ -11,7 +11,7 @@ disqus_account: noxtal-com
 github_repository: https://github.com/Noxtal/noxtal.com
 addthis_id: ra-5f07cbdc7e5d39c3
 adsense: ca-pub-6140612341069656
-post_limit: 5
+post_limit: 10
 
 # Social usernames/URLs
 twitter_username: noxtal_
