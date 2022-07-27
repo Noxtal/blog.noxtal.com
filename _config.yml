@@ -4,7 +4,7 @@ email: contact.noxtal@gmail.com
 description: "Hey, I'm Noxtal! I'm a young CTF player and pentester, come check out my blog. On it, I post about everything I like but mostly detailed writeups about cybersecurity challenges I liked for beginners to learn."
 baseurl: ""
 url: "http://noxtal.com/"
-title_description: 'Welcome! I''m Noxtal and this is my "Cyberworld". In other words, it is a website on which I post writeups for cybersecurity challenges, tutorials and offer good ways to learn programming and hacking. My goal is to make people from the coding and hacking community learn and share the things I create. I am not in any way a certified hacker or pentester, but I do that as a passion because of my young age. Enjoy your stay!'
+title_description: 'Welcome to my blog! In other words, it is a website on which I post writeups for cybersecurity challenges, tutorials and offer good ways to learn programming and hacking. My goal is to make people from the coding and hacking community to the next level and mostly share the things I create. I am not in any way a certified hacker or pentester, but I do that as a passion because of my young age. Enjoy your stay!'
 title_image: "https://avatars2.githubusercontent.com/u/44851191?s=500&d=mm"
 google_analytics: "UA-167321483-1"
 disqus_account: noxtal-com
